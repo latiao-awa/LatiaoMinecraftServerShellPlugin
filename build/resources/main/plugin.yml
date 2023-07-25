@@ -1,0 +1,10 @@
+name: LatiaoMinecraftShell
+version: 1
+main: me.latiao.minecraftservershellplugin.main
+commands:
+  LatiaoMinecraftShell:
+    description: LatiaoMinecraftShell
+    usage: /LatiaoMinecraftShell <command>
+  LatiaoSystemShell:
+    description: LatiaoSystemShell
+    usage: /LatiaoSystemShell <command>
